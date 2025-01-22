@@ -5,7 +5,7 @@ import user_icon from "./person.png";
 import password_icon from "./password.png";
 
 const LoginSignup = () => {
-  const [value, setValue] = useState("Login");
+  const [value, setValue] = useState("Sign Up");
 
   return (
     <div className="container">
